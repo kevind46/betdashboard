@@ -1,0 +1,1826 @@
+[
+  {
+    "Team": "Seattle Seahawks",
+    "G": "17",
+    "PointsAllowed": "292",
+    "TotalYardsAllowed": "4860",
+    "YardsPerPlay": "4.6",
+    "Turnovers": "25",
+    "PassingYards": "3297",
+    "PassingTDs": "20",
+    "PassingInts": "18",
+    "RushingYards": "1563",
+    "RushingTDs": "9",
+    "RushingYPC": "3.7",
+    "ScoringPct": "28.7",
+    "FirstDowns": "291",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "14.0",
+        "Rank": "",
+        "Yards": "3619",
+        "TDs": "20",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3619",
+        "PassTD": "20",
+        "RushYards": "292",
+        "Completions": "375",
+        "Attempts": "600"
+      },
+      "RB": {
+        "PointsGame": "13.2",
+        "Rank": "",
+        "Yards": "640",
+        "TDs": "2",
+        "Receptions": "97",
+        "Targets": "127",
+        "RushYards": "1239",
+        "RecYards": "640"
+      },
+      "WR": {
+        "PointsGame": "16.3",
+        "Rank": "",
+        "Yards": "1899",
+        "TDs": "12",
+        "Receptions": "173",
+        "Targets": "304"
+      },
+      "TE": {
+        "PointsGame": "8.5",
+        "Rank": "",
+        "Yards": "1080",
+        "TDs": "6",
+        "Receptions": "105",
+        "Targets": "144"
+      }
+    }
+  },
+  {
+    "Team": "Houston Texans",
+    "G": "17",
+    "PointsAllowed": "295",
+    "TotalYardsAllowed": "4713",
+    "YardsPerPlay": "4.8",
+    "Turnovers": "29",
+    "PassingYards": "3120",
+    "PassingTDs": "20",
+    "PassingInts": "19",
+    "RushingYards": "1593",
+    "RushingTDs": "13",
+    "RushingYPC": "4.0",
+    "ScoringPct": "27.6",
+    "FirstDowns": "276",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "12.6",
+        "Rank": "",
+        "Yards": "3470",
+        "TDs": "20",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3470",
+        "PassTD": "20",
+        "RushYards": "334",
+        "Completions": "318",
+        "Attempts": "536"
+      },
+      "RB": {
+        "PointsGame": "15.5",
+        "Rank": "",
+        "Yards": "541",
+        "TDs": "2",
+        "Receptions": "72",
+        "Targets": "92",
+        "RushYards": "1250",
+        "RecYards": "541"
+      },
+      "WR": {
+        "PointsGame": "16.6",
+        "Rank": "",
+        "Yards": "2183",
+        "TDs": "10",
+        "Receptions": "159",
+        "Targets": "292"
+      },
+      "TE": {
+        "PointsGame": "7.3",
+        "Rank": "",
+        "Yards": "775",
+        "TDs": "8",
+        "Receptions": "87",
+        "Targets": "123"
+      }
+    }
+  },
+  {
+    "Team": "Denver Broncos",
+    "G": "17",
+    "PointsAllowed": "311",
+    "TotalYardsAllowed": "4730",
+    "YardsPerPlay": "4.5",
+    "Turnovers": "14",
+    "PassingYards": "3182",
+    "PassingTDs": "18",
+    "PassingInts": "10",
+    "RushingYards": "1548",
+    "RushingTDs": "11",
+    "RushingYPC": "3.9",
+    "ScoringPct": "34.6",
+    "FirstDowns": "299",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "14.2",
+        "Rank": "",
+        "Yards": "3606",
+        "TDs": "18",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3606",
+        "PassTD": "18",
+        "RushYards": "311",
+        "Completions": "343",
+        "Attempts": "593"
+      },
+      "RB": {
+        "PointsGame": "14.2",
+        "Rank": "",
+        "Yards": "367",
+        "TDs": "6",
+        "Receptions": "49",
+        "Targets": "73",
+        "RushYards": "1220",
+        "RecYards": "367"
+      },
+      "WR": {
+        "PointsGame": "15.2",
+        "Rank": "",
+        "Yards": "2224",
+        "TDs": "6",
+        "Receptions": "199",
+        "Targets": "338"
+      },
+      "TE": {
+        "PointsGame": "8.1",
+        "Rank": "",
+        "Yards": "1015",
+        "TDs": "6",
+        "Receptions": "95",
+        "Targets": "143"
+      }
+    }
+  },
+  {
+    "Team": "New England Patriots",
+    "G": "17",
+    "PointsAllowed": "320",
+    "TotalYardsAllowed": "5019",
+    "YardsPerPlay": "5.2",
+    "Turnovers": "19",
+    "PassingYards": "3290",
+    "PassingTDs": "25",
+    "PassingInts": "10",
+    "RushingYards": "1729",
+    "RushingTDs": "11",
+    "RushingYPC": "4.2",
+    "ScoringPct": "32.2",
+    "FirstDowns": "302",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "14.7",
+        "Rank": "",
+        "Yards": "3509",
+        "TDs": "25",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3509",
+        "PassTD": "25",
+        "RushYards": "276",
+        "Completions": "349",
+        "Attempts": "525"
+      },
+      "RB": {
+        "PointsGame": "14.1",
+        "Rank": "",
+        "Yards": "524",
+        "TDs": "2",
+        "Receptions": "84",
+        "Targets": "102",
+        "RushYards": "1311",
+        "RecYards": "524"
+      },
+      "WR": {
+        "PointsGame": "19.2",
+        "Rank": "",
+        "Yards": "2014",
+        "TDs": "17",
+        "Receptions": "168",
+        "Targets": "265"
+      },
+      "TE": {
+        "PointsGame": "8.1",
+        "Rank": "",
+        "Yards": "971",
+        "TDs": "6",
+        "Receptions": "97",
+        "Targets": "134"
+      }
+    }
+  },
+  {
+    "Team": "Philadelphia Eagles",
+    "G": "17",
+    "PointsAllowed": "325",
+    "TotalYardsAllowed": "5341",
+    "YardsPerPlay": "4.9",
+    "Turnovers": "21",
+    "PassingYards": "3226",
+    "PassingTDs": "14",
+    "PassingInts": "12",
+    "RushingYards": "2115",
+    "RushingTDs": "20",
+    "RushingYPC": "4.3",
+    "ScoringPct": "35.0",
+    "FirstDowns": "328",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "14.5",
+        "Rank": "",
+        "Yards": "3476",
+        "TDs": "14",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3476",
+        "PassTD": "14",
+        "RushYards": "400",
+        "Completions": "309",
+        "Attempts": "543"
+      },
+      "RB": {
+        "PointsGame": "19.2",
+        "Rank": "",
+        "Yards": "639",
+        "TDs": "4",
+        "Receptions": "63",
+        "Targets": "87",
+        "RushYards": "1642",
+        "RecYards": "639"
+      },
+      "WR": {
+        "PointsGame": "16.1",
+        "Rank": "",
+        "Yards": "2302",
+        "TDs": "6",
+        "Receptions": "177",
+        "Targets": "317"
+      },
+      "TE": {
+        "PointsGame": "4.4",
+        "Rank": "",
+        "Yards": "507",
+        "TDs": "4",
+        "Receptions": "67",
+        "Targets": "105"
+      }
+    }
+  },
+  {
+    "Team": "Kansas City Chiefs",
+    "G": "17",
+    "PointsAllowed": "328",
+    "TotalYardsAllowed": "5126",
+    "YardsPerPlay": "5.2",
+    "Turnovers": "14",
+    "PassingYards": "3329",
+    "PassingTDs": "18",
+    "PassingInts": "10",
+    "RushingYards": "1797",
+    "RushingTDs": "14",
+    "RushingYPC": "4.0",
+    "ScoringPct": "37.7",
+    "FirstDowns": "291",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "15.1",
+        "Rank": "",
+        "Yards": "3487",
+        "TDs": "18",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3487",
+        "PassTD": "18",
+        "RushYards": "328",
+        "Completions": "340",
+        "Attempts": "508"
+      },
+      "RB": {
+        "PointsGame": "15.4",
+        "Rank": "",
+        "Yards": "495",
+        "TDs": "4",
+        "Receptions": "69",
+        "Targets": "85",
+        "RushYards": "1415",
+        "RecYards": "495"
+      },
+      "WR": {
+        "PointsGame": "16.4",
+        "Rank": "",
+        "Yards": "2119",
+        "TDs": "10",
+        "Receptions": "186",
+        "Targets": "295"
+      },
+      "TE": {
+        "PointsGame": "6.2",
+        "Rank": "",
+        "Yards": "809",
+        "TDs": "4",
+        "Receptions": "82",
+        "Targets": "101"
+      }
+    }
+  },
+  {
+    "Team": "Minnesota Vikings",
+    "G": "17",
+    "PointsAllowed": "333",
+    "TotalYardsAllowed": "4804",
+    "YardsPerPlay": "4.7",
+    "Turnovers": "21",
+    "PassingYards": "2694",
+    "PassingTDs": "15",
+    "PassingInts": "8",
+    "RushingYards": "2110",
+    "RushingTDs": "13",
+    "RushingYPC": "4.0",
+    "ScoringPct": "35.4",
+    "FirstDowns": "302",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "11.1",
+        "Rank": "",
+        "Yards": "3021",
+        "TDs": "15",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3021",
+        "PassTD": "15",
+        "RushYards": "262",
+        "Completions": "279",
+        "Attempts": "447"
+      },
+      "RB": {
+        "PointsGame": "16.4",
+        "Rank": "",
+        "Yards": "331",
+        "TDs": "0",
+        "Receptions": "55",
+        "Targets": "71",
+        "RushYards": "1787",
+        "RecYards": "331"
+      },
+      "WR": {
+        "PointsGame": "14.9",
+        "Rank": "",
+        "Yards": "1971",
+        "TDs": "9",
+        "Receptions": "149",
+        "Targets": "243"
+      },
+      "TE": {
+        "PointsGame": "6.3",
+        "Rank": "",
+        "Yards": "719",
+        "TDs": "6",
+        "Receptions": "75",
+        "Targets": "110"
+      }
+    }
+  },
+  {
+    "Team": "Jacksonville Jaguars",
+    "G": "17",
+    "PointsAllowed": "336",
+    "TotalYardsAllowed": "5162",
+    "YardsPerPlay": "5.0",
+    "Turnovers": "31",
+    "PassingYards": "3707",
+    "PassingTDs": "25",
+    "PassingInts": "22",
+    "RushingYards": "1455",
+    "RushingTDs": "13",
+    "RushingYPC": "3.9",
+    "ScoringPct": "31.2",
+    "FirstDowns": "322",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "15.9",
+        "Rank": "",
+        "Yards": "3933",
+        "TDs": "25",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3933",
+        "PassTD": "25",
+        "RushYards": "283",
+        "Completions": "396",
+        "Attempts": "635"
+      },
+      "RB": {
+        "PointsGame": "13.9",
+        "Rank": "",
+        "Yards": "586",
+        "TDs": "3",
+        "Receptions": "82",
+        "Targets": "106",
+        "RushYards": "1156",
+        "RecYards": "586"
+      },
+      "WR": {
+        "PointsGame": "18.8",
+        "Rank": "",
+        "Yards": "2343",
+        "TDs": "14",
+        "Receptions": "210",
+        "Targets": "356"
+      },
+      "TE": {
+        "PointsGame": "8.7",
+        "Rank": "",
+        "Yards": "1004",
+        "TDs": "8",
+        "Receptions": "104",
+        "Targets": "148"
+      }
+    }
+  },
+  {
+    "Team": "Los Angeles Chargers",
+    "G": "17",
+    "PointsAllowed": "340",
+    "TotalYardsAllowed": "4849",
+    "YardsPerPlay": "5.0",
+    "Turnovers": "23",
+    "PassingYards": "3058",
+    "PassingTDs": "16",
+    "PassingInts": "19",
+    "RushingYards": "1791",
+    "RushingTDs": "16",
+    "RushingYPC": "4.3",
+    "ScoringPct": "36.2",
+    "FirstDowns": "285",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "12.5",
+        "Rank": "",
+        "Yards": "3306",
+        "TDs": "16",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3306",
+        "PassTD": "16",
+        "RushYards": "316",
+        "Completions": "306",
+        "Attempts": "504"
+      },
+      "RB": {
+        "PointsGame": "15.3",
+        "Rank": "",
+        "Yards": "430",
+        "TDs": "0",
+        "Receptions": "59",
+        "Targets": "85",
+        "RushYards": "1444",
+        "RecYards": "430"
+      },
+      "WR": {
+        "PointsGame": "16.8",
+        "Rank": "",
+        "Yards": "2167",
+        "TDs": "10",
+        "Receptions": "178",
+        "Targets": "301"
+      },
+      "TE": {
+        "PointsGame": "6.3",
+        "Rank": "",
+        "Yards": "717",
+        "TDs": "6",
+        "Receptions": "70",
+        "Targets": "95"
+      }
+    }
+  },
+  {
+    "Team": "Los Angeles Rams",
+    "G": "17",
+    "PointsAllowed": "346",
+    "TotalYardsAllowed": "5568",
+    "YardsPerPlay": "5.2",
+    "Turnovers": "26",
+    "PassingYards": "3684",
+    "PassingTDs": "26",
+    "PassingInts": "16",
+    "RushingYards": "1884",
+    "RushingTDs": "8",
+    "RushingYPC": "4.3",
+    "ScoringPct": "34.3",
+    "FirstDowns": "322",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "15.2",
+        "Rank": "",
+        "Yards": "3960",
+        "TDs": "26",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3960",
+        "PassTD": "26",
+        "RushYards": "254",
+        "Completions": "376",
+        "Attempts": "587"
+      },
+      "RB": {
+        "PointsGame": "15.7",
+        "Rank": "",
+        "Yards": "650",
+        "TDs": "3",
+        "Receptions": "83",
+        "Targets": "111",
+        "RushYards": "1505",
+        "RecYards": "650"
+      },
+      "WR": {
+        "PointsGame": "21.2",
+        "Rank": "",
+        "Yards": "2563",
+        "TDs": "16",
+        "Receptions": "202",
+        "Targets": "326"
+      },
+      "TE": {
+        "PointsGame": "7.6",
+        "Rank": "",
+        "Yards": "775",
+        "TDs": "7",
+        "Receptions": "92",
+        "Targets": "127"
+      }
+    }
+  },
+  {
+    "Team": "Green Bay Packers",
+    "G": "17",
+    "PointsAllowed": "360",
+    "TotalYardsAllowed": "5301",
+    "YardsPerPlay": "5.0",
+    "Turnovers": "14",
+    "PassingYards": "3300",
+    "PassingTDs": "24",
+    "PassingInts": "7",
+    "RushingYards": "2001",
+    "RushingTDs": "15",
+    "RushingYPC": "4.2",
+    "ScoringPct": "42.8",
+    "FirstDowns": "330",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "15.0",
+        "Rank": "",
+        "Yards": "3516",
+        "TDs": "24",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3516",
+        "PassTD": "24",
+        "RushYards": "246",
+        "Completions": "360",
+        "Attempts": "548"
+      },
+      "RB": {
+        "PointsGame": "17.3",
+        "Rank": "",
+        "Yards": "457",
+        "TDs": "0",
+        "Receptions": "78",
+        "Targets": "96",
+        "RushYards": "1708",
+        "RecYards": "457"
+      },
+      "WR": {
+        "PointsGame": "20.2",
+        "Rank": "",
+        "Yards": "2296",
+        "TDs": "18",
+        "Receptions": "187",
+        "Targets": "284"
+      },
+      "TE": {
+        "PointsGame": "6.6",
+        "Rank": "",
+        "Yards": "759",
+        "TDs": "6",
+        "Receptions": "94",
+        "Targets": "128"
+      }
+    }
+  },
+  {
+    "Team": "Buffalo Bills",
+    "G": "17",
+    "PointsAllowed": "365",
+    "TotalYardsAllowed": "4983",
+    "YardsPerPlay": "5.2",
+    "Turnovers": "20",
+    "PassingYards": "2668",
+    "PassingTDs": "19",
+    "PassingInts": "13",
+    "RushingYards": "2315",
+    "RushingTDs": "24",
+    "RushingYPC": "5.1",
+    "ScoringPct": "37.3",
+    "FirstDowns": "300",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "13.1",
+        "Rank": "",
+        "Yards": "2894",
+        "TDs": "19",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "2894",
+        "PassTD": "19",
+        "RushYards": "368",
+        "Completions": "277",
+        "Attempts": "462"
+      },
+      "RB": {
+        "PointsGame": "20.5",
+        "Rank": "",
+        "Yards": "425",
+        "TDs": "3",
+        "Receptions": "67",
+        "Targets": "91",
+        "RushYards": "1830",
+        "RecYards": "425"
+      },
+      "WR": {
+        "PointsGame": "16.7",
+        "Rank": "",
+        "Yards": "1965",
+        "TDs": "12",
+        "Receptions": "164",
+        "Targets": "268"
+      },
+      "TE": {
+        "PointsGame": "4.9",
+        "Rank": "",
+        "Yards": "504",
+        "TDs": "4",
+        "Receptions": "46",
+        "Targets": "76"
+      }
+    }
+  },
+  {
+    "Team": "San Francisco 49ers",
+    "G": "17",
+    "PointsAllowed": "371",
+    "TotalYardsAllowed": "5784",
+    "YardsPerPlay": "5.6",
+    "Turnovers": "16",
+    "PassingYards": "3951",
+    "PassingTDs": "29",
+    "PassingInts": "6",
+    "RushingYards": "1833",
+    "RushingTDs": "13",
+    "RushingYPC": "4.3",
+    "ScoringPct": "38.6",
+    "FirstDowns": "344",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "17.1",
+        "Rank": "",
+        "Yards": "4110",
+        "TDs": "29",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4110",
+        "PassTD": "29",
+        "RushYards": "224",
+        "Completions": "398",
+        "Attempts": "584"
+      },
+      "RB": {
+        "PointsGame": "17.9",
+        "Rank": "",
+        "Yards": "607",
+        "TDs": "3",
+        "Receptions": "94",
+        "Targets": "113",
+        "RushYards": "1582",
+        "RecYards": "607"
+      },
+      "WR": {
+        "PointsGame": "20.1",
+        "Rank": "",
+        "Yards": "2534",
+        "TDs": "15",
+        "Receptions": "204",
+        "Targets": "303"
+      },
+      "TE": {
+        "PointsGame": "9.0",
+        "Rank": "",
+        "Yards": "968",
+        "TDs": "10",
+        "Receptions": "99",
+        "Targets": "146"
+      }
+    }
+  },
+  {
+    "Team": "Cleveland Browns",
+    "G": "17",
+    "PointsAllowed": "379",
+    "TotalYardsAllowed": "4822",
+    "YardsPerPlay": "4.8",
+    "Turnovers": "18",
+    "PassingYards": "2843",
+    "PassingTDs": "25",
+    "PassingInts": "11",
+    "RushingYards": "1979",
+    "RushingTDs": "14",
+    "RushingYPC": "4.2",
+    "ScoringPct": "33.7",
+    "FirstDowns": "285",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "13.4",
+        "Rank": "",
+        "Yards": "3188",
+        "TDs": "24",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3188",
+        "PassTD": "24",
+        "RushYards": "208",
+        "Completions": "307",
+        "Attempts": "485"
+      },
+      "RB": {
+        "PointsGame": "17.7",
+        "Rank": "",
+        "Yards": "471",
+        "TDs": "3",
+        "Receptions": "70",
+        "Targets": "91",
+        "RushYards": "1638",
+        "RecYards": "471"
+      },
+      "WR": {
+        "PointsGame": "17.8",
+        "Rank": "",
+        "Yards": "1862",
+        "TDs": "17",
+        "Receptions": "152",
+        "Targets": "252"
+      },
+      "TE": {
+        "PointsGame": "7.7",
+        "Rank": "",
+        "Yards": "887",
+        "TDs": "5",
+        "Receptions": "86",
+        "Targets": "120"
+      }
+    }
+  },
+  {
+    "Team": "Carolina Panthers",
+    "G": "17",
+    "PointsAllowed": "380",
+    "TotalYardsAllowed": "5563",
+    "YardsPerPlay": "5.5",
+    "Turnovers": "21",
+    "PassingYards": "3467",
+    "PassingTDs": "20",
+    "PassingInts": "15",
+    "RushingYards": "2096",
+    "RushingTDs": "20",
+    "RushingYPC": "4.4",
+    "ScoringPct": "42.6",
+    "FirstDowns": "325",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "13.8",
+        "Rank": "",
+        "Yards": "3657",
+        "TDs": "20",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3657",
+        "PassTD": "20",
+        "RushYards": "246",
+        "Completions": "336",
+        "Attempts": "506"
+      },
+      "RB": {
+        "PointsGame": "19.8",
+        "Rank": "",
+        "Yards": "487",
+        "TDs": "2",
+        "Receptions": "75",
+        "Targets": "94",
+        "RushYards": "1808",
+        "RecYards": "487"
+      },
+      "WR": {
+        "PointsGame": "16.9",
+        "Rank": "",
+        "Yards": "2151",
+        "TDs": "11",
+        "Receptions": "174",
+        "Targets": "277"
+      },
+      "TE": {
+        "PointsGame": "8.6",
+        "Rank": "",
+        "Yards": "1019",
+        "TDs": "7",
+        "Receptions": "87",
+        "Targets": "116"
+      }
+    }
+  },
+  {
+    "Team": "New Orleans Saints",
+    "G": "17",
+    "PointsAllowed": "383",
+    "TotalYardsAllowed": "5096",
+    "YardsPerPlay": "4.8",
+    "Turnovers": "20",
+    "PassingYards": "3046",
+    "PassingTDs": "25",
+    "PassingInts": "10",
+    "RushingYards": "2050",
+    "RushingTDs": "12",
+    "RushingYPC": "4.0",
+    "ScoringPct": "40.2",
+    "FirstDowns": "313",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "14.0",
+        "Rank": "",
+        "Yards": "3336",
+        "TDs": "25",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3336",
+        "PassTD": "25",
+        "RushYards": "286",
+        "Completions": "312",
+        "Attempts": "491"
+      },
+      "RB": {
+        "PointsGame": "17.5",
+        "Rank": "",
+        "Yards": "401",
+        "TDs": "3",
+        "Receptions": "57",
+        "Targets": "70",
+        "RushYards": "1746",
+        "RecYards": "401"
+      },
+      "WR": {
+        "PointsGame": "18.0",
+        "Rank": "",
+        "Yards": "2066",
+        "TDs": "16",
+        "Receptions": "166",
+        "Targets": "267"
+      },
+      "TE": {
+        "PointsGame": "7.2",
+        "Rank": "",
+        "Yards": "869",
+        "TDs": "6",
+        "Receptions": "89",
+        "Targets": "125"
+      }
+    }
+  },
+  {
+    "Team": "Pittsburgh Steelers",
+    "G": "17",
+    "PointsAllowed": "387",
+    "TotalYardsAllowed": "6068",
+    "YardsPerPlay": "5.5",
+    "Turnovers": "27",
+    "PassingYards": "4146",
+    "PassingTDs": "30",
+    "PassingInts": "15",
+    "RushingYards": "1922",
+    "RushingTDs": "10",
+    "RushingYPC": "4.3",
+    "ScoringPct": "40.7",
+    "FirstDowns": "352",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "18.8",
+        "Rank": "",
+        "Yards": "4437",
+        "TDs": "30",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4437",
+        "PassTD": "30",
+        "RushYards": "260",
+        "Completions": "396",
+        "Attempts": "613"
+      },
+      "RB": {
+        "PointsGame": "14.7",
+        "Rank": "",
+        "Yards": "534",
+        "TDs": "2",
+        "Receptions": "77",
+        "Targets": "99",
+        "RushYards": "1639",
+        "RecYards": "534"
+      },
+      "WR": {
+        "PointsGame": "22.5",
+        "Rank": "",
+        "Yards": "2782",
+        "TDs": "17",
+        "Receptions": "213",
+        "Targets": "341"
+      },
+      "TE": {
+        "PointsGame": "10.4",
+        "Rank": "",
+        "Yards": "1121",
+        "TDs": "11",
+        "Receptions": "106",
+        "Targets": "144"
+      }
+    }
+  },
+  {
+    "Team": "Baltimore Ravens",
+    "G": "17",
+    "PointsAllowed": "398",
+    "TotalYardsAllowed": "6027",
+    "YardsPerPlay": "5.5",
+    "Turnovers": "20",
+    "PassingYards": "4214",
+    "PassingTDs": "23",
+    "PassingInts": "11",
+    "RushingYards": "1813",
+    "RushingTDs": "18",
+    "RushingYPC": "4.2",
+    "ScoringPct": "43.3",
+    "FirstDowns": "334",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "17.7",
+        "Rank": "",
+        "Yards": "4403",
+        "TDs": "23",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4403",
+        "PassTD": "23",
+        "RushYards": "308",
+        "Completions": "399",
+        "Attempts": "625"
+      },
+      "RB": {
+        "PointsGame": "17.7",
+        "Rank": "",
+        "Yards": "735",
+        "TDs": "3",
+        "Receptions": "94",
+        "Targets": "116",
+        "RushYards": "1396",
+        "RecYards": "735"
+      },
+      "WR": {
+        "PointsGame": "22.6",
+        "Rank": "",
+        "Yards": "2849",
+        "TDs": "16",
+        "Receptions": "220",
+        "Targets": "361"
+      },
+      "TE": {
+        "PointsGame": "6.5",
+        "Rank": "",
+        "Yards": "794",
+        "TDs": "4",
+        "Receptions": "83",
+        "Targets": "112"
+      }
+    }
+  },
+  {
+    "Team": "Atlanta Falcons",
+    "G": "17",
+    "PointsAllowed": "401",
+    "TotalYardsAllowed": "5553",
+    "YardsPerPlay": "5.3",
+    "Turnovers": "23",
+    "PassingYards": "3407",
+    "PassingTDs": "27",
+    "PassingInts": "16",
+    "RushingYards": "2146",
+    "RushingTDs": "12",
+    "RushingYPC": "4.6",
+    "ScoringPct": "41.5",
+    "FirstDowns": "325",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "16.3",
+        "Rank": "",
+        "Yards": "3773",
+        "TDs": "27",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3773",
+        "PassTD": "27",
+        "RushYards": "345",
+        "Completions": "331",
+        "Attempts": "527"
+      },
+      "RB": {
+        "PointsGame": "17.7",
+        "Rank": "",
+        "Yards": "520",
+        "TDs": "4",
+        "Receptions": "69",
+        "Targets": "94",
+        "RushYards": "1727",
+        "RecYards": "520"
+      },
+      "WR": {
+        "PointsGame": "22.2",
+        "Rank": "",
+        "Yards": "2438",
+        "TDs": "20",
+        "Receptions": "189",
+        "Targets": "309"
+      },
+      "TE": {
+        "PointsGame": "6.0",
+        "Rank": "",
+        "Yards": "816",
+        "TDs": "3",
+        "Receptions": "72",
+        "Targets": "105"
+      }
+    }
+  },
+  {
+    "Team": "Tampa Bay Buccaneers",
+    "G": "17",
+    "PointsAllowed": "411",
+    "TotalYardsAllowed": "5733",
+    "YardsPerPlay": "5.7",
+    "Turnovers": "23",
+    "PassingYards": "4049",
+    "PassingTDs": "30",
+    "PassingInts": "13",
+    "RushingYards": "1684",
+    "RushingTDs": "16",
+    "RushingYPC": "4.3",
+    "ScoringPct": "39.1",
+    "FirstDowns": "315",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "19.4",
+        "Rank": "",
+        "Yards": "4332",
+        "TDs": "30",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4332",
+        "PassTD": "30",
+        "RushYards": "350",
+        "Completions": "379",
+        "Attempts": "568"
+      },
+      "RB": {
+        "PointsGame": "17.5",
+        "Rank": "",
+        "Yards": "860",
+        "TDs": "4",
+        "Receptions": "79",
+        "Targets": "93",
+        "RushYards": "1340",
+        "RecYards": "860"
+      },
+      "WR": {
+        "PointsGame": "19.5",
+        "Rank": "",
+        "Yards": "2509",
+        "TDs": "14",
+        "Receptions": "199",
+        "Targets": "322"
+      },
+      "TE": {
+        "PointsGame": "9.9",
+        "Rank": "",
+        "Yards": "969",
+        "TDs": "12",
+        "Receptions": "100",
+        "Targets": "131"
+      }
+    }
+  },
+  {
+    "Team": "Indianapolis Colts",
+    "G": "17",
+    "PointsAllowed": "412",
+    "TotalYardsAllowed": "5947",
+    "YardsPerPlay": "5.3",
+    "Turnovers": "21",
+    "PassingYards": "4215",
+    "PassingTDs": "24",
+    "PassingInts": "14",
+    "RushingYards": "1732",
+    "RushingTDs": "16",
+    "RushingYPC": "3.9",
+    "ScoringPct": "44.3",
+    "FirstDowns": "372",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "16.9",
+        "Rank": "",
+        "Yards": "4462",
+        "TDs": "24",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4462",
+        "PassTD": "24",
+        "RushYards": "208",
+        "Completions": "397",
+        "Attempts": "627"
+      },
+      "RB": {
+        "PointsGame": "16.1",
+        "Rank": "",
+        "Yards": "415",
+        "TDs": "3",
+        "Receptions": "67",
+        "Targets": "96",
+        "RushYards": "1475",
+        "RecYards": "415"
+      },
+      "WR": {
+        "PointsGame": "22.7",
+        "Rank": "",
+        "Yards": "2861",
+        "TDs": "15",
+        "Receptions": "228",
+        "Targets": "360"
+      },
+      "TE": {
+        "PointsGame": "9.1",
+        "Rank": "",
+        "Yards": "1186",
+        "TDs": "6",
+        "Receptions": "102",
+        "Targets": "142"
+      }
+    }
+  },
+  {
+    "Team": "Detroit Lions",
+    "G": "17",
+    "PointsAllowed": "413",
+    "TotalYardsAllowed": "5642",
+    "YardsPerPlay": "5.4",
+    "Turnovers": "19",
+    "PassingYards": "3695",
+    "PassingTDs": "31",
+    "PassingInts": "13",
+    "RushingYards": "1947",
+    "RushingTDs": "16",
+    "RushingYPC": "4.4",
+    "ScoringPct": "40.1",
+    "FirstDowns": "330",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "18.2",
+        "Rank": "",
+        "Yards": "3994",
+        "TDs": "30",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3994",
+        "PassTD": "30",
+        "RushYards": "258",
+        "Completions": "341",
+        "Attempts": "553"
+      },
+      "RB": {
+        "PointsGame": "15.9",
+        "Rank": "",
+        "Yards": "418",
+        "TDs": "1",
+        "Receptions": "60",
+        "Targets": "79",
+        "RushYards": "1515",
+        "RecYards": "418"
+      },
+      "WR": {
+        "PointsGame": "24.3",
+        "Rank": "",
+        "Yards": "2644",
+        "TDs": "21",
+        "Receptions": "193",
+        "Targets": "324"
+      },
+      "TE": {
+        "PointsGame": "8.5",
+        "Rank": "",
+        "Yards": "932",
+        "TDs": "8",
+        "Receptions": "88",
+        "Targets": "131"
+      }
+    }
+  },
+  {
+    "Team": "Chicago Bears",
+    "G": "17",
+    "PointsAllowed": "415",
+    "TotalYardsAllowed": "6150",
+    "YardsPerPlay": "6.0",
+    "Turnovers": "33",
+    "PassingYards": "3863",
+    "PassingTDs": "32",
+    "PassingInts": "23",
+    "RushingYards": "2287",
+    "RushingTDs": "15",
+    "RushingYPC": "5.0",
+    "ScoringPct": "38.9",
+    "FirstDowns": "347",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "18.1",
+        "Rank": "",
+        "Yards": "4067",
+        "TDs": "32",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4067",
+        "PassTD": "32",
+        "RushYards": "396",
+        "Completions": "355",
+        "Attempts": "533"
+      },
+      "RB": {
+        "PointsGame": "17.7",
+        "Rank": "",
+        "Yards": "470",
+        "TDs": "5",
+        "Receptions": "69",
+        "Targets": "88",
+        "RushYards": "1772",
+        "RecYards": "470"
+      },
+      "WR": {
+        "PointsGame": "24.1",
+        "Rank": "",
+        "Yards": "2676",
+        "TDs": "20",
+        "Receptions": "187",
+        "Targets": "290"
+      },
+      "TE": {
+        "PointsGame": "7.3",
+        "Rank": "",
+        "Yards": "876",
+        "TDs": "6",
+        "Receptions": "98",
+        "Targets": "126"
+      }
+    }
+  },
+  {
+    "Team": "Miami Dolphins",
+    "G": "17",
+    "PointsAllowed": "424",
+    "TotalYardsAllowed": "5929",
+    "YardsPerPlay": "5.8",
+    "Turnovers": "20",
+    "PassingYards": "3678",
+    "PassingTDs": "29",
+    "PassingInts": "9",
+    "RushingYards": "2251",
+    "RushingTDs": "18",
+    "RushingYPC": "4.8",
+    "ScoringPct": "41.4",
+    "FirstDowns": "343",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "18.2",
+        "Rank": "",
+        "Yards": "3920",
+        "TDs": "29",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3920",
+        "PassTD": "29",
+        "RushYards": "359",
+        "Completions": "371",
+        "Attempts": "515"
+      },
+      "RB": {
+        "PointsGame": "20.1",
+        "Rank": "",
+        "Yards": "621",
+        "TDs": "4",
+        "Receptions": "84",
+        "Targets": "94",
+        "RushYards": "1822",
+        "RecYards": "621"
+      },
+      "WR": {
+        "PointsGame": "19.2",
+        "Rank": "",
+        "Yards": "2165",
+        "TDs": "17",
+        "Receptions": "179",
+        "Targets": "264"
+      },
+      "TE": {
+        "PointsGame": "10.2",
+        "Rank": "",
+        "Yards": "1134",
+        "TDs": "8",
+        "Receptions": "108",
+        "Targets": "140"
+      }
+    }
+  },
+  {
+    "Team": "Las Vegas Raiders",
+    "G": "17",
+    "PointsAllowed": "432",
+    "TotalYardsAllowed": "5403",
+    "YardsPerPlay": "5.0",
+    "Turnovers": "16",
+    "PassingYards": "3417",
+    "PassingTDs": "23",
+    "PassingInts": "8",
+    "RushingYards": "1986",
+    "RushingTDs": "22",
+    "RushingYPC": "3.9",
+    "ScoringPct": "41.7",
+    "FirstDowns": "330",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "16.0",
+        "Rank": "",
+        "Yards": "3644",
+        "TDs": "23",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3644",
+        "PassTD": "23",
+        "RushYards": "266",
+        "Completions": "359",
+        "Attempts": "523"
+      },
+      "RB": {
+        "PointsGame": "18.8",
+        "Rank": "",
+        "Yards": "474",
+        "TDs": "1",
+        "Receptions": "78",
+        "Targets": "95",
+        "RushYards": "1683",
+        "RecYards": "474"
+      },
+      "WR": {
+        "PointsGame": "20.8",
+        "Rank": "",
+        "Yards": "2503",
+        "TDs": "16",
+        "Receptions": "210",
+        "Targets": "308"
+      },
+      "TE": {
+        "PointsGame": "6.0",
+        "Rank": "",
+        "Yards": "656",
+        "TDs": "6",
+        "Receptions": "69",
+        "Targets": "97"
+      }
+    }
+  },
+  {
+    "Team": "New York Giants",
+    "G": "17",
+    "PointsAllowed": "439",
+    "TotalYardsAllowed": "6112",
+    "YardsPerPlay": "5.8",
+    "Turnovers": "15",
+    "PassingYards": "3642",
+    "PassingTDs": "25",
+    "PassingInts": "9",
+    "RushingYards": "2470",
+    "RushingTDs": "21",
+    "RushingYPC": "5.3",
+    "ScoringPct": "43.3",
+    "FirstDowns": "361",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "18.2",
+        "Rank": "",
+        "Yards": "3889",
+        "TDs": "25",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3889",
+        "PassTD": "25",
+        "RushYards": "417",
+        "Completions": "357",
+        "Attempts": "549"
+      },
+      "RB": {
+        "PointsGame": "21.3",
+        "Rank": "",
+        "Yards": "520",
+        "TDs": "4",
+        "Receptions": "77",
+        "Targets": "96",
+        "RushYards": "1984",
+        "RecYards": "520"
+      },
+      "WR": {
+        "PointsGame": "21.7",
+        "Rank": "",
+        "Yards": "2580",
+        "TDs": "16",
+        "Receptions": "197",
+        "Targets": "315"
+      },
+      "TE": {
+        "PointsGame": "6.5",
+        "Rank": "",
+        "Yards": "807",
+        "TDs": "5",
+        "Receptions": "82",
+        "Targets": "114"
+      }
+    }
+  },
+  {
+    "Team": "Washington Commanders",
+    "G": "17",
+    "PointsAllowed": "451",
+    "TotalYardsAllowed": "6533",
+    "YardsPerPlay": "6.0",
+    "Turnovers": "10",
+    "PassingYards": "4122",
+    "PassingTDs": "33",
+    "PassingInts": "8",
+    "RushingYards": "2411",
+    "RushingTDs": "18",
+    "RushingYPC": "4.8",
+    "ScoringPct": "47.3",
+    "FirstDowns": "376",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "19.6",
+        "Rank": "",
+        "Yards": "4371",
+        "TDs": "33",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4371",
+        "PassTD": "33",
+        "RushYards": "336",
+        "Completions": "350",
+        "Attempts": "540"
+      },
+      "RB": {
+        "PointsGame": "22.1",
+        "Rank": "",
+        "Yards": "565",
+        "TDs": "4",
+        "Receptions": "58",
+        "Targets": "82",
+        "RushYards": "1966",
+        "RecYards": "565"
+      },
+      "WR": {
+        "PointsGame": "22.8",
+        "Rank": "",
+        "Yards": "2766",
+        "TDs": "17",
+        "Receptions": "206",
+        "Targets": "316"
+      },
+      "TE": {
+        "PointsGame": "10.8",
+        "Rank": "",
+        "Yards": "1040",
+        "TDs": "12",
+        "Receptions": "86",
+        "Targets": "114"
+      }
+    }
+  },
+  {
+    "Team": "Tennessee Titans",
+    "G": "17",
+    "PointsAllowed": "478",
+    "TotalYardsAllowed": "5867",
+    "YardsPerPlay": "5.8",
+    "Turnovers": "14",
+    "PassingYards": "3919",
+    "PassingTDs": "30",
+    "PassingInts": "6",
+    "RushingYards": "1948",
+    "RushingTDs": "21",
+    "RushingYPC": "4.3",
+    "ScoringPct": "45.1",
+    "FirstDowns": "338",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "19.1",
+        "Rank": "",
+        "Yards": "4221",
+        "TDs": "30",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4221",
+        "PassTD": "30",
+        "RushYards": "330",
+        "Completions": "354",
+        "Attempts": "514"
+      },
+      "RB": {
+        "PointsGame": "18.3",
+        "Rank": "",
+        "Yards": "458",
+        "TDs": "2",
+        "Receptions": "56",
+        "Targets": "73",
+        "RushYards": "1553",
+        "RecYards": "458"
+      },
+      "WR": {
+        "PointsGame": "23.5",
+        "Rank": "",
+        "Yards": "2814",
+        "TDs": "18",
+        "Receptions": "205",
+        "Targets": "296"
+      },
+      "TE": {
+        "PointsGame": "8.7",
+        "Rank": "",
+        "Yards": "947",
+        "TDs": "9",
+        "Receptions": "92",
+        "Targets": "120"
+      }
+    }
+  },
+  {
+    "Team": "Arizona Cardinals",
+    "G": "17",
+    "PointsAllowed": "488",
+    "TotalYardsAllowed": "6081",
+    "YardsPerPlay": "5.6",
+    "Turnovers": "19",
+    "PassingYards": "3923",
+    "PassingTDs": "31",
+    "PassingInts": "10",
+    "RushingYards": "2158",
+    "RushingTDs": "19",
+    "RushingYPC": "4.4",
+    "ScoringPct": "48.9",
+    "FirstDowns": "380",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "17.0",
+        "Rank": "",
+        "Yards": "4128",
+        "TDs": "31",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4128",
+        "PassTD": "31",
+        "RushYards": "171",
+        "Completions": "375",
+        "Attempts": "572"
+      },
+      "RB": {
+        "PointsGame": "22.8",
+        "Rank": "",
+        "Yards": "609",
+        "TDs": "5",
+        "Receptions": "76",
+        "Targets": "96",
+        "RushYards": "1926",
+        "RecYards": "609"
+      },
+      "WR": {
+        "PointsGame": "19.4",
+        "Rank": "",
+        "Yards": "2330",
+        "TDs": "14",
+        "Receptions": "190",
+        "Targets": "299"
+      },
+      "TE": {
+        "PointsGame": "10.6",
+        "Rank": "",
+        "Yards": "1166",
+        "TDs": "11",
+        "Receptions": "107",
+        "Targets": "143"
+      }
+    }
+  },
+  {
+    "Team": "Cincinnati Bengals",
+    "G": "17",
+    "PointsAllowed": "492",
+    "TotalYardsAllowed": "6475",
+    "YardsPerPlay": "6.2",
+    "Turnovers": "21",
+    "PassingYards": "3975",
+    "PassingTDs": "33",
+    "PassingInts": "13",
+    "RushingYards": "2500",
+    "RushingTDs": "18",
+    "RushingYPC": "5.2",
+    "ScoringPct": "42.3",
+    "FirstDowns": "353",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "18.3",
+        "Rank": "",
+        "Yards": "4166",
+        "TDs": "30",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4166",
+        "PassTD": "30",
+        "RushYards": "323",
+        "Completions": "345",
+        "Attempts": "530"
+      },
+      "RB": {
+        "PointsGame": "23.8",
+        "Rank": "",
+        "Yards": "729",
+        "TDs": "7",
+        "Receptions": "81",
+        "Targets": "102",
+        "RushYards": "2031",
+        "RecYards": "729"
+      },
+      "WR": {
+        "PointsGame": "16.8",
+        "Rank": "",
+        "Yards": "1980",
+        "TDs": "9",
+        "Receptions": "149",
+        "Targets": "242"
+      },
+      "TE": {
+        "PointsGame": "14.1",
+        "Rank": "",
+        "Yards": "1444",
+        "TDs": "16",
+        "Receptions": "116",
+        "Targets": "165"
+      }
+    }
+  },
+  {
+    "Team": "New York Jets",
+    "G": "17",
+    "PointsAllowed": "503",
+    "TotalYardsAllowed": "6045",
+    "YardsPerPlay": "5.6",
+    "Turnovers": "4",
+    "PassingYards": "3674",
+    "PassingTDs": "36",
+    "PassingInts": "0",
+    "RushingYards": "2371",
+    "RushingTDs": "20",
+    "RushingYPC": "4.4",
+    "ScoringPct": "49.2",
+    "FirstDowns": "372",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "20.0",
+        "Rank": "",
+        "Yards": "3811",
+        "TDs": "35",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "3811",
+        "PassTD": "35",
+        "RushYards": "327",
+        "Completions": "335",
+        "Attempts": "514"
+      },
+      "RB": {
+        "PointsGame": "24.4",
+        "Rank": "",
+        "Yards": "587",
+        "TDs": "11",
+        "Receptions": "62",
+        "Targets": "80",
+        "RushYards": "1873",
+        "RecYards": "587"
+      },
+      "WR": {
+        "PointsGame": "19.7",
+        "Rank": "",
+        "Yards": "2313",
+        "TDs": "15",
+        "Receptions": "179",
+        "Targets": "282"
+      },
+      "TE": {
+        "PointsGame": "9.6",
+        "Rank": "",
+        "Yards": "949",
+        "TDs": "10",
+        "Receptions": "95",
+        "Targets": "129"
+      }
+    }
+  },
+  {
+    "Team": "Dallas Cowboys",
+    "G": "17",
+    "PointsAllowed": "511",
+    "TotalYardsAllowed": "6409",
+    "YardsPerPlay": "6.1",
+    "Turnovers": "12",
+    "PassingYards": "4276",
+    "PassingTDs": "35",
+    "PassingInts": "6",
+    "RushingYards": "2133",
+    "RushingTDs": "24",
+    "RushingYPC": "4.7",
+    "ScoringPct": "51.4",
+    "FirstDowns": "373",
+    "Fantasy": {
+      "QB": {
+        "PointsGame": "23.4",
+        "Rank": "",
+        "Yards": "4521",
+        "TDs": "35",
+        "Receptions": "0",
+        "Targets": "0",
+        "PassYards": "4521",
+        "PassTD": "35",
+        "RushYards": "398",
+        "Completions": "381",
+        "Attempts": "555"
+      },
+      "RB": {
+        "PointsGame": "20.7",
+        "Rank": "",
+        "Yards": "735",
+        "TDs": "4",
+        "Receptions": "85",
+        "Targets": "101",
+        "RushYards": "1619",
+        "RecYards": "735"
+      },
+      "WR": {
+        "PointsGame": "27.1",
+        "Rank": "",
+        "Yards": "2907",
+        "TDs": "26",
+        "Receptions": "206",
+        "Targets": "302"
+      },
+      "TE": {
+        "PointsGame": "7.1",
+        "Rank": "",
+        "Yards": "879",
+        "TDs": "5",
+        "Receptions": "90",
+        "Targets": "116"
+      }
+    }
+  }
+]
