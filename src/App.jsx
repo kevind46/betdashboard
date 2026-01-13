@@ -79,7 +79,7 @@ const processWeeklyData = (fullSeasonData, numGames) => {
 
     // Filter out bye weeks and get actual games, sorted by week desc, take last N
     const actualGames = teamWeekly.games
-      .filter(g => g.opponent !== 'Bye Week' && g.pointsAllowed > 0 || g.totalYardsAllowed > 0)
+      .filter(g => g.opponent !== 'Bye Week')
       .sort((a, b) => b.week - a.week)
       .slice(0, numGames);
 

@@ -101,19 +101,23 @@ async function scrapeTeamGameLogs() {
       const week = getStat('week_num');
       if (!week || week === '' || week === 'Week') return;
       
-      // pts_off = points scored by opponent (points allowed by this defense)
-      // pts_def = points scored by this team
+      // For DEFENSIVE stats, we need the "_def" columns which show what the opponent did
+      // pts_def = Points scored by opponent (points allowed)
+      // yards_def = Yards gained by opponent (yards allowed)
+      // pass_yds_def = Pass yards by opponent
+      // rush_yds_def = Rush yards by opponent
+      // to_def = Turnovers forced by our defense
       const gameData = {
         week: parseInt(week),
         opponent: getStat('opp'),
         result: getStat('game_outcome'),
-        pointsAllowed: parseInt(getStat('pts_off')) || 0,
-        pointsScored: parseInt(getStat('pts_def')) || 0,
-        totalYardsAllowed: parseInt(getStat('yards_off')) || 0,
-        totalYardsGained: parseInt(getStat('yards_def')) || 0,
-        passYardsAllowed: parseInt(getStat('pass_yds_off')) || 0,
-        rushYardsAllowed: parseInt(getStat('rush_yds_off')) || 0,
-        turnoversForced: parseInt(getStat('to_off')) || 0
+        pointsAllowed: parseInt(getStat('pts_def')) || 0,
+        pointsScored: parseInt(getStat('pts_off')) || 0,
+        totalYardsAllowed: parseInt(getStat('yards_def')) || 0,
+        totalYardsGained: parseInt(getStat('yards_off')) || 0,
+        passYardsAllowed: parseInt(getStat('pass_yds_def')) || 0,
+        rushYardsAllowed: parseInt(getStat('rush_yds_def')) || 0,
+        turnoversForced: parseInt(getStat('to_def')) || 0
       };
       
       // Only add if it looks like a real game week
