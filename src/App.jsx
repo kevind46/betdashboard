@@ -88,6 +88,9 @@ const processWeeklyData = (fullSeasonData, numGames) => {
     }
 
     const gamesCount = actualGames.length;
+    const seasonGames = 17;
+    const gameRatio = gamesCount / seasonGames;
+    
     const totals = actualGames.reduce((acc, game) => ({
       pointsAllowed: acc.pointsAllowed + game.pointsAllowed,
       totalYards: acc.totalYards + game.totalYardsAllowed,
@@ -95,6 +98,9 @@ const processWeeklyData = (fullSeasonData, numGames) => {
       rushYards: acc.rushYards + game.rushYardsAllowed,
       turnovers: acc.turnovers + game.turnoversForced
     }), { pointsAllowed: 0, totalYards: 0, passYards: 0, rushYards: 0, turnovers: 0 });
+
+    // Prorate TDs based on game ratio (we don't have per-game TD data)
+    const prorateTDs = (val) => Math.round(Number(val || 0) * gameRatio);
 
     return {
       ...team,
@@ -104,9 +110,40 @@ const processWeeklyData = (fullSeasonData, numGames) => {
       PassingYards: String(totals.passYards),
       RushingYards: String(totals.rushYards),
       Turnovers: String(totals.turnovers),
-      // Keep fantasy data from full season (we don't have weekly positional data)
+      // Prorate TDs (approximation since per-game TD data not available)
+      PassingTDs: String(prorateTDs(team.PassingTDs)),
+      RushingTDs: String(prorateTDs(team.RushingTDs)),
+      // Prorate Fantasy position TDs as well
+      Fantasy: team.Fantasy ? {
+        WR: team.Fantasy.WR ? {
+          ...team.Fantasy.WR,
+          Yards: String(prorateTDs(team.Fantasy.WR.Yards)),
+          TDs: String(prorateTDs(team.Fantasy.WR.TDs)),
+          Receptions: String(prorateTDs(team.Fantasy.WR.Receptions)),
+        } : null,
+        RB: team.Fantasy.RB ? {
+          ...team.Fantasy.RB,
+          RushYards: String(prorateTDs(team.Fantasy.RB.RushYards)),
+          RecYards: String(prorateTDs(team.Fantasy.RB.RecYards)),
+          TDs: String(prorateTDs(team.Fantasy.RB.TDs)),
+          Receptions: String(prorateTDs(team.Fantasy.RB.Receptions)),
+        } : null,
+        TE: team.Fantasy.TE ? {
+          ...team.Fantasy.TE,
+          Yards: String(prorateTDs(team.Fantasy.TE.Yards)),
+          TDs: String(prorateTDs(team.Fantasy.TE.TDs)),
+          Receptions: String(prorateTDs(team.Fantasy.TE.Receptions)),
+        } : null,
+        QB: team.Fantasy.QB ? {
+          ...team.Fantasy.QB,
+          PassYards: String(prorateTDs(team.Fantasy.QB.PassYards)),
+          PassTD: String(prorateTDs(team.Fantasy.QB.PassTD)),
+          RushYards: String(prorateTDs(team.Fantasy.QB.RushYards)),
+        } : null,
+      } : null,
       _isFiltered: true,
-      _gamesUsed: gamesCount
+      _gamesUsed: gamesCount,
+      _isProrated: true  // Flag to indicate TD/position stats are prorated
     };
   });
 
